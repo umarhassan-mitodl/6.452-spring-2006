@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "legacy_uid": "ab080029-0816-c836-83fa-ba2ed385177b",
+  "instructors": {
+    "content": [
+      "4a2475cf-eaf4-4d25-36b6-78b23d1d4399"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "30625436-ffb0-8fbf-f20f-212b42baad34",
+    "website": "6-452-principles-of-wireless-communications-spring-2006"
+  },
+  "course_title": "Principles of Wireless Communications",
+  "hide_download": true,
+  "course_description": "This course is an introduction to the design, analysis, and fundamental limits of wireless transmission systems. Topics to be covered include: wireless channel and system models; fading and diversity; resource management and power control; multiple-antenna and MIMO systems; space-time codes and decoding algorithms; multiple-access techniques and multiuser detection; broadcast codes and precoding; cellular and ad-hoc network topologies; OFDM and ultrawideband systems; and architectural issues.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.452",
+  "course_image_thumbnail": {
+    "content": "62ad323c-2821-ab61-e19a-e95542331fd8",
+    "website": "6-452-principles-of-wireless-communications-spring-2006"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets"
+  ],
+  "site_uid": "e0eef84d-a3e2-4d52-9c35-44e4738c6ee8",
+  "site_short_id": "6.452-spring-2006",
+  "site_url_path": "courses/6-452-principles-of-wireless-communications-spring-2006",
+  "title": "Course Metadata"
+}
