@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, assignments, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,7 +36,7 @@ Textbook
 
 The required textbook is the new and very nice book,
 
-Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. [Online version](https://web.stanford.edu/~dntse/papers/book121004.pdf).
+Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. {{% resource_link "ce9f9439-53fc-46c2-aa48-b2628dfb48c2" "Online version" %}}.
 
 **Note:** I personally believe this book is one of the best technical books, and a hard copy is worth having. It is fine to go through this course with only the on-line version, for the assigned readings and problem sets. Printing out the whole book is however considered a waste of resource and strongly discouraged.
 

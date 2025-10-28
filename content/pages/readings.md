@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations for the required textbook and recommended
   papers for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -14,7 +12,7 @@ uid: f5665c80-1eaa-1c95-8a00-67f2bbfde7fe
 Required Textbook
 -----------------
 
-Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. [Online version](https://web.stanford.edu/~dntse/papers/book121004.pdf).
+Tse, David, and Pramod Viswanath. _Fundamentals of Wireless Communication_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 0521845270. {{% resource_link "ce9f9439-53fc-46c2-aa48-b2628dfb48c2" "Online version" %}}.
 
 Recommended Papers
 ------------------

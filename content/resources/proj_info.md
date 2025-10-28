@@ -5,8 +5,6 @@ description: A description of a project to write a review of a paper in the wire
 file: /courses/6-452-principles-of-wireless-communications-spring-2006/b2adeb21568671f43d7f2d17a2a99529_proj_info.pdf
 file_size: 54372
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section provides a description of an assignment to write a review
   of a paper in the wireless communications area. '
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
